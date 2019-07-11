@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestApplication{
 
     char aChar = 'b';
+    boolean aBoolean = false;
 
     public static void main(String[] args) {
         SpringApplication.run(TestApplication.class, args);
