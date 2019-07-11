@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestApplication{
 
-    char aChar = 'a';
+    char aChar = 'b';
 
     public static void main(String[] args) {
         SpringApplication.run(TestApplication.class, args);
